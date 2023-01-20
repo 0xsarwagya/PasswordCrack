@@ -1,7 +1,3 @@
-
-![App Screenshot](https://api.deepai.org/job-view-file/63f786f8-03c7-4a00-938b-a10fa9820101/outputs/output.jpg)
-
-
 # Password Cracking Script
 
 This script is designed to crack a password hash by comparing it to a list of potential passwords. It is important to note that this script should not be used for illegal or unethical purposes, and that the success rate of cracking a password depends on the quality and size of the provided password list.
@@ -30,3 +26,6 @@ This script is designed to crack a password hash by comparing it to a list of po
 * Avoid using the same password for multiple accounts: If one account is compromised, all of your other accounts using the same password are also at risk.
 
 By following these steps, you can greatly reduce the chances of your password being cracked, and help to keep your information secure.
+
+
+![App Screenshot](https://api.deepai.org/job-view-file/63f786f8-03c7-4a00-938b-a10fa9820101/outputs/output.jpg)
